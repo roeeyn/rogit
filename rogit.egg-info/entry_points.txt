@@ -1,4 +1,0 @@
-
-        [console_scripts]
-        rogit=app:rogit
-    
