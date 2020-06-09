@@ -2,3 +2,4 @@ venv/
 .vscode/
 *.pyc
 rogit.egg-info
+dist/
