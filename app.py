@@ -70,7 +70,7 @@ def abort_if_false(ctx, param, value):
     prompt=f"\033[1m\033[92mConfirm commit and push?\033[0m",
 )
 def rogit(message, branch):
-    click.echo("Cool 😎! 🔥🔥🔥")
+    click.echo("\033[94mCool 😎! 🔥🔥🔥\n\033[0m")
     click.echo(create_commit(message))
     click.echo(push_changes(branch))
     click.echo("\033[1m\033[92mDone\033[0m")
