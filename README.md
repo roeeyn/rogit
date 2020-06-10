@@ -1,6 +1,7 @@
 # Rogit
-This is a little automation for lazy devs like me. 
-This will do `git add -A && git commit -m "Your meaningful commit message" && git push origin YourCurrentBranch`
+This is a little automation for lazy devs like me.<br>
+This will do `git add -A && git commit -m "YourMeaningfulCommitMessage" && git push origin YourCurrentBranch`.
+You will be prompted for the commit message and for the branch name (the default is your current branch).
 
 ## Installation
 ```bash
