@@ -1,5 +1,6 @@
 # Rogit
-This is a little automation for lazy devs like me
+This is a little automation for lazy devs like me. 
+This will do `git add -A && git commit -m "Your meaningful commit message" && git push origin YourCurrentBranch`
 
 ## Installation
 ```bash
